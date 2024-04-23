@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ender6460
-- 👀 I’m interested in Computer and Cat
+- 👀 I’m interested in Minecraft 
 - 🌱 I’m currently learning Java and GML (GameMaker Studio 2)
 - 📫 How to reach me Discord
   
